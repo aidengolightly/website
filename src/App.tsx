@@ -70,11 +70,11 @@ function Website() {
       );
 
       const data = await response.json();
-      const generatedText = data.candidates?.[0]?.content?.parts?.[0]?.text || "Entschuldigung, ich konnte gerade keine Verbindung zu meiner KI-Datenbank herstellen. Bitte versuchen Sie es gleich noch einmal.";
+      const generatedText = data.candidates?.[0]?.content?.parts?.[0]?.text || "Entschuldigung, ich glaube die Anfrage passt vielleicht nicht ganz in mein Portfolio. Bitte versuchen Sie es gleich noch einmal oder nehmen direkt persönlich mit mir Kontakt auf.";
       setAiResponse(generatedText);
     } catch (error) {
       console.error("Error calling Gemini API:", error);
-      setAiResponse("Es gab einen kleinen technischen Fehler bei der Analyse. Lassen Sie uns das Problem am besten persönlich besprechen!");
+bei       setAiResponse("Es gab einen kleinen technischen Fehler der Analyse. Lassen Sie uns das Problem am besten persönlich besprechen!");
     } finally {
       setIsLoading(false);
     }

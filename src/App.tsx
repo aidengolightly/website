@@ -492,7 +492,7 @@ function Website() {
                 </div>
                 <div className="flex items-center pt-4 border-t border-white/10">
                   <Linkedin className="h-6 w-6 text-[#8A9A5B] mr-4" />
-                  <a href="#" className="text-gray-400 hover:text-white transition-colors">LinkedIn Profil besuchen</a>
+                  <a href="https://www.linkedin.com/in/robintaggeselle/" className="text-gray-400 hover:text-white transition-colors">LinkedIn Profil besuchen</a>
                 </div>
               </div>
             </div>

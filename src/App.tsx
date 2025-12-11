@@ -74,7 +74,7 @@ function Website() {
       setAiResponse(generatedText);
     } catch (error) {
       console.error("Error calling Gemini API:", error);
-bei       setAiResponse("Es gab einen kleinen technischen Fehler der Analyse. Lassen Sie uns das Problem am besten persönlich besprechen!");
+       setAiResponse("Es gab einen kleinen technischen Fehler der Analyse. Lassen Sie uns das Problem am besten persönlich besprechen!");
     } finally {
       setIsLoading(false);
     }

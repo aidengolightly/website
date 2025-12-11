@@ -415,21 +415,21 @@ function Website() {
                 Ich bin <strong>Robin Taggeselle</strong>. Mein Hintergrund ist nicht die bloße Beratungstheorie, sondern das operative Geschäft. Über 10 Jahre habe ich Teams geleitet, Digitalstrategien für bis zu 100 Mitarbeiter verantwortet und Unternehmen durch echte Krisen und Wachstumsphasen gesteuert.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Ich spreche beide Sprachen: Die der IT und die der Geschäftsführung. Mein Anspruch ist es, komplexe Technologie ohne <strong>Technokraten-Sprech</strong> zu erklären und Menschen bei Veränderungen empathisch mitzunehmen.
+                Ich spreche beide Sprachen: Die der IT und die der Geschäftsführung. Mein Anspruch ist es, komplexe Technologie ohne <strong>Technokraten-Sprech</strong> zu erklären und Menschen bei Veränderungen empathisch mitzunehmen. Zertifizierter:
               </p>
 
               <div className="space-y-4">
                 <div className="flex items-center p-4 bg-gray-50 rounded-lg">
                   <div className="w-2 h-2 rounded-full bg-[#8A9A5B] mr-4"></div>
-                  <span className="font-medium">Zertifizierter KI & Prompt Engineer</span>
+                  <span className="font-medium">KI & Prompt Engineer</span>
                 </div>
                 <div className="flex items-center p-4 bg-gray-50 rounded-lg">
                   <div className="w-2 h-2 rounded-full bg-[#8A9A5B] mr-4"></div>
-                  <span className="font-medium">Change Management Practitioner (APMG)</span>
+                  <span className="font-medium">Change Manager (nach APMG)</span>
                 </div>
                 <div className="flex items-center p-4 bg-gray-50 rounded-lg">
                   <div className="w-2 h-2 rounded-full bg-[#8A9A5B] mr-4"></div>
-                  <span className="font-medium">Prince2 Agile® Project Management</span>
+                  <span className="font-medium">Prince2 Agile® Practitioner Projekt Manager (nach PeopleCert)</span>
                 </div>
               </div>
             </div>

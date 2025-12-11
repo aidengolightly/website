@@ -484,7 +484,7 @@ function Website() {
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-[#8A9A5B] mr-4" />
-                  <span className="text-lg">+49 174 6091102</span>
+                  <span className="text-lg">+49 176 55405756</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-[#8A9A5B] mr-4" />
